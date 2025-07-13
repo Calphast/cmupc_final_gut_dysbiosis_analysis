@@ -1,4 +1,4 @@
-# Gut Dysbiosis and Epithelial scRNA-seq Analysis
+# Gut Dysbiosis scRNA-seq Analysis
 
 This repository contains the full R-based pipeline for Pod23's CMU Pre-College Computational Biology final project. The project analyzes cell response to gut dysbiosis using two publicly available single-cell RNA sequencing (scRNA-seq) datasets from the Gene Expression Omnibus (GEO): **GSE168077** and **GSE169749**.
 
