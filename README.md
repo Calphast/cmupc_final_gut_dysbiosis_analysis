@@ -12,8 +12,8 @@ The main goals of this project are:
 
 This analysis uses two GEO datasets:
 
-- **[GSE168077](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE168077)**: Gut epithelial single-cell transcriptomic profiles under dysbiosis
-- **[GSE169749](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169749)**: Keratinocyte/epithelial profiles from related conditions
+- **[GSE168077](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE168077)**: Characterization of small intestine innate lymphoid cells of WT (Batf fl/fl) and cKO (Batf fl/fl Plzf cre+) mice using single cell RNA sequence scRNA-seq
+- **[GSE169749](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169749)**: 10X Visium Spatial transcriptomics of murine colon in steady state and during recovery after DSS colitis
 
 **Note:** Due to file size, raw data is **not included** in this repository. To reproduce the analysis:
 
