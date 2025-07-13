@@ -26,34 +26,15 @@ See `data/README.md` for more detailed instructions.
 
 ---
 
-## ⚙️ How to Run the Analysis
+## 🔧 Dependencies
 
-### 1. Clone the Repository
+This project was developed using the following R packages:
 
-```bash
-git clone https://github.com/YOUR_USERNAME/gut-dysbiosis-analysis.git
-cd gut-dysbiosis-analysis
-```
-
-### 2. Open the Project in RStudio
-
-Open the file `gut_dysbiosis_analysis.Rproj`.
-
-### 3. Install Required R Packages
-
-You can install the necessary packages with:
-
-```r
-install.packages(c("Seurat", "tidyverse", "patchwork"))
-```
-
-If additional packages are needed (e.g. Bioconductor packages), use:
-
-```r
-if (!requireNamespace("BiocManager", quietly = TRUE))
-    install.packages("BiocManager")
-BiocManager::install("SingleCellExperiment")
-```
+- `Seurat` (v5 or compatible)
+- `tidyverse`
+- `patchwork`
+- `ggplot2`
+- `dplyr`
 
 ### 4. Run the Analysis Scripts
 
