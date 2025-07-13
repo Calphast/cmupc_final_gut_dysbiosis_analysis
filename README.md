@@ -52,8 +52,6 @@ To keep the repository clean and lightweight, the following are **excluded**:
 
 These are excluded via `.gitignore`.
 
----
-
 ## 👤 Author
 
 **Gabriel Souto**  
