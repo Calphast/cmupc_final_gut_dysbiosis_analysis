@@ -8,8 +8,6 @@ The main goals of this project are:
 - To compute condition-specific cluster proportions and expansion ratios
 - To explore how gut dysbiosis affects cellular composition and gene expression
 
----
-
 ## 📂 Data
 
 This analysis uses two GEO datasets:
@@ -28,8 +26,6 @@ Scripts are organized into the `analysis/` folder:
 - `analysis2.R`: Primary analysis of GSE169749_RAW data (used in presentation)
 - `keratinocyte_analysis.R`: Secondary analysis of GSE169749_RAW data focused on keratnocyte cells
 
----
-
 ## 🔧 Dependencies
 
 This project was developed using the following R packages:
@@ -40,15 +36,11 @@ This project was developed using the following R packages:
 - `ggplot2`
 - `dplyr`
 
----
-
 ## 📊 Results Summary
 
 - UMAP plots showing cluster structure
 - Proportion tables comparing conditions
 - Cluster expansion ratios
-
----
 
 ## 🚫 Files Not Included
 
